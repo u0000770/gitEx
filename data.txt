@@ -1,3 +1,4 @@
 A Text File
 Now with additional data!
-Version 0.1
+And some potentially conflicting data too!
+Version 0.2
