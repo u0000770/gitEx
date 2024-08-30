@@ -1,2 +1,3 @@
 A Text File
-Version 0
+Now with additional data!
+Version 0.1
