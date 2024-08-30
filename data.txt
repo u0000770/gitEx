@@ -1,4 +1,4 @@
-A Text File
-Now with additional data!
-And some potentially conflicting data too!
+A Conflicting Text File with a bunch of additional noise!
+Now with (random extras) additional data!
+And some more and some more some potentially conflicting data too!
 Version 0.2
